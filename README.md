@@ -1,2 +1,0 @@
-# EntregaDevops
-Videos das Entregas
